@@ -1,7 +1,12 @@
 # ResultObject
 
-<img alt="NPM" src="https://img.shields.io/npm/l/@ib-code/result-object">
-<img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/igorbezsmertnyi/result-object/master">
+<div style="display:flex">
+<img alt="npm" style="margin-right:4px" src="https://img.shields.io/npm/v/@ib-code/result-object">
+<img alt="NPM" style="margin-right:4px" src="https://img.shields.io/npm/l/@ib-code/result-object">
+<img alt="GitHub branch checks state" style="margin-right:4px" src="https://img.shields.io/github/checks-status/igorbezsmertnyi/result-object/master">
+<img alt="Codecov" style="margin-right:4px" src="https://img.shields.io/codecov/c/gh/igorbezsmertnyi/result-object">
+</div>
+<br/>
 
 In JavaScript, errors and failures are typically implemented with exceptions. In some situations, however, exceptions may not be the best choice. The `ResultObject` contains a build in methods that transform the result to common structure. The `ResultObject` object are wrappers for a successful, or failed results of the functions or methods.
 
