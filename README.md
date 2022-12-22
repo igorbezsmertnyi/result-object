@@ -1,8 +1,10 @@
 # ResultObject
 
-<div style="display:flex">
+<div style="display:inline">
+<a href="https://www.npmjs.com/package/@ib-code/result-object">
 <img alt="npm" style="margin-right:4px" src="https://img.shields.io/npm/v/@ib-code/result-object">
-<img alt="NPM" style="margin-right:4px" src="https://img.shields.io/npm/l/@ib-code/result-object">
+</a>
+<img alt="licence" style="margin-right:4px" src="https://img.shields.io/npm/l/@ib-code/result-object">
 <img alt="GitHub branch checks state" style="margin-right:4px" src="https://img.shields.io/github/checks-status/igorbezsmertnyi/result-object/master">
 <img alt="Codecov" style="margin-right:4px" src="https://img.shields.io/codecov/c/gh/igorbezsmertnyi/result-object">
 </div>
@@ -37,8 +39,8 @@ In JavaScript, errors and failures are typically implemented with exceptions. In
 ## Installation
 
 ```shell
-$ npm install result-object
-$ yarn add result-object
+$ npm install @ib-code/result-object
+$ yarn add @ib-code/result-object
 ```
 
 ## Usage
