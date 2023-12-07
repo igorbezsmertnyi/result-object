@@ -2,8 +2,8 @@
   "name": "@ib-code/result-object",
   "version": "1.0.2",
   "description": "Function or method result structure serializer",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/lib/index.js",
+  "types": "dist/lib/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/igorbezsmertnyi/result-object.git"
